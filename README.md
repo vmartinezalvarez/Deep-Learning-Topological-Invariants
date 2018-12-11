@@ -1,2 +1,2 @@
-# Deep-Learning-Topological-Invariants-
+# Deep-Learning-Topological-Invariants
 Winding Number Calculation with Neural Networks 
